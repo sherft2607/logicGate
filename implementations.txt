@@ -1,0 +1,44 @@
+1. 
+when brining input to the canvas it starts with A - done 
+then each new input i bring it goes up by 1 so B, C and accordingly -done
+deleye input changes output changes 
+
+2. 
+in run mode the logic gate starts as false
+as false it is grey 
+as true it is red
+and when each input is clicked it turns to true 
+
+3. 
+the rightcircle sends an outpit 
+the left side takes an input 
+input gives output only 
+output takes input only 
+
+4. 
+can connect only input to output 
+when input or output circle is clicked it is highlighted 
+if input is clicked of one and and the output is clicked of two, input one and output two will connect and the the input one will disconnect from anything else it is connected to 
+
+5. 
+not take an input and gives an output it does the opposite of the input
+so if input is true itll make it false
+and vice versa
+
+
+6. 
+if clicked and drag the module moves as well as the connection it has to other modules 
+
+7.
+and logic gate 
+takes two inputs 
+and one output 
+
+if both the inputs are true it results in true if even one is false it return false
+outputs can connect to more than one input 
+
+8. 
+or logic gate basically takes two inputs and one output, if even one of the inputs true or both are true it will return true otherwise it both inputs are false it will return false
+
+
+
